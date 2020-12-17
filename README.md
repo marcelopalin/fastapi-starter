@@ -1,3 +1,9 @@
+I got to know this project through the video that the author has on youtube:
+
+https://www.youtube.com/watch?v=StHtw2YvNFU
+
+Python FastAPI Tutorial - Building a Satellite API
+
 # FastAPI Starter
 My first attempt at creating a FastAPI starter project.
 
